@@ -1,4 +1,4 @@
-
+![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/7ba6c00f-1a90-4337-98f9-df0b8f15624a)![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/91f606bd-0fc7-4327-953f-0dcf4afa9d58)![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/41a2171e-8018-4e58-8f79-82805f283121)
 # Personal Portfolio Website
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
@@ -7,14 +7,14 @@ Demo Deployed github-github.io Link -> https://akashkam559.github.io/Akash-Portf
 Demo Deployed Youtube  Linkhttps://www.youtube.com/watch?v=0vdxaTmWIeY
 
 # WHITE THEME
-![1 1- white - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/be5115cc-34c8-4c0a-af26-01dd2b256093)
+![1 1- white - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/47a29b97-a88f-459b-b368-3250ebdf22f7)
+
 
 # BLUE THEME
-![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/0104d385-7b48-4783-8bf7-da1c89065ede)
 
-![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/3c832794-2a4a-485c-8405-4d078a357d28)
+![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/aeec2a7f-dcfb-4ee5-9a6c-3991fd9b615a)
 
-![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/a9f5693c-00c4-49ea-8cfe-a12f9503ae4c)
+
 
 
 
@@ -57,17 +57,35 @@ Thank you for visiting my personal portfolio repository! I hope you find it info
 .
 .
 .
-![4-skills](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/587862af-0325-4012-a6cb-c5e98571092e)
 
-![5-education](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/f23c3ffa-03b9-46ad-890e-0390fd1d0528)
+![4-skills](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/e89f8ab4-8ff3-46af-805a-08678486a78d)
 
-![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/b8542a80-9617-49aa-afa2-7a669bc2ed12)
+![5-education](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/ed61a95f-5e63-42b2-874a-3a9827941ff4)
 
-![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/ed03ce28-014c-4e4d-85f8-a9a069b846d2)
+![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5e88b31e-b262-4476-b675-0a596421af8b)
 
-![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/b8765278-106c-4367-b20c-f128cf4c6d50)
+![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/5d946b80-bff8-4261-bbd6-0c245666ffaa)
 
-![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/2365d6e1-a809-45ac-b890-feea31c7073a)
+![7-project](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/b68468a3-3c70-4b10-8de4-e07755401511)
+
+![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/8f145e00-e180-40a7-bf2f-bcc010de78dc)
+
+![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/910c92c1-1d98-4c3c-b9d9-3d076560040e)![Uploading 8-contact.PNG…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
