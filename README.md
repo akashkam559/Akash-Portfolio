@@ -1,4 +1,4 @@
-![6-exp](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/7ba6c00f-1a90-4337-98f9-df0b8f15624a)![8-contact](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/91f606bd-0fc7-4327-953f-0dcf4afa9d58)![9-made with love](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/41a2171e-8018-4e58-8f79-82805f283121)
+
 # Personal Portfolio Website
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
@@ -12,7 +12,13 @@ Demo Deployed Youtube  Linkhttps://www.youtube.com/watch?v=0vdxaTmWIeY
 
 # BLUE THEME
 
+![1 2- blue - porfolio view summary](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/4a7dec88-617d-4fb2-8df1-7cfe4dadb254)
+
+
 ![2- hi am](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/aeec2a7f-dcfb-4ee5-9a6c-3991fd9b615a)
+
+
+![3-about](https://github.com/akashkam559/Akash-Portfolio/assets/41515202/dafbdd7d-5f2c-4bb4-b144-be10260adf5d)
 
 
 
